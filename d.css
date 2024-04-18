@@ -1,0 +1,15 @@
+:-webkit-scrollbar{
+   width: 7px;
+}
+::-webkit-scrollbar-track{
+    background: blue;
+}
+::-webkit-scrollbar-thumb{
+    background: blue;
+}
+#error{
+    display: none;
+    background-color: red;
+    width: 40%;
+    margin-left: 30%;
+}
